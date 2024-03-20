@@ -1,2 +1,2 @@
-# an-lise-b-sica-dados
+# analise-basica-dados
 Aulas Victor Icoma, BC ElasTech
